@@ -8,9 +8,9 @@ We need some pre-requisites to install Medusa in the local system. i.e. windows
 2.	Git
 3.	PostgreSQL
 
-a.	NodeJs : https://nodejs.org/en/#home-downloadhead
-b.	Git:  https://git-scm.com/download/win
-c.	PostgreSQL:  https://www.postgresql.org/download/windows/
+- 	NodeJs : https://nodejs.org/en/#home-downloadhead
+- 	Git:  https://git-scm.com/download/win
+-   PostgreSQL:  https://www.postgresql.org/download/windows/
 
 
 ![image](https://github.com/user-attachments/assets/702d486a-c05d-493a-8773-f0970e7077af)
